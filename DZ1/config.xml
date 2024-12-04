@@ -1,1 +1,5 @@
-
+{
+    "username": "user",
+    "vfs_path": "path/to/virtual/filesystem.zip",
+    "log_path": "path/to/log.csv"
+}
